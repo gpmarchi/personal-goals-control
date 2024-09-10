@@ -9,5 +9,12 @@
       "tag": "0000_neat_guardian",
       "breakpoints": true
     },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725984112356,
+      "tag": "0001_cooing_eternals",
+      "breakpoints": true
+    }
   ]
 }
